@@ -1,0 +1,32 @@
+* {
+  background-color: rgb(235, 248, 248);
+}
+
+.cards {
+  display: flex;
+  
+}
+
+.card1 button {
+  border: none;
+  background-color: rgb(70, 171, 230);
+  padding: 15px;
+  width: 100%;
+  border-radius: 10px;
+}
+
+.deliveryTime {
+  color: rgb(69, 212, 69);
+}
+
+.originalPrice {
+  margin-left: 15px;
+}
+
+/* .Toolbar {
+  background-color: grey;
+} */
+
+.product {
+  display: flex;
+}
